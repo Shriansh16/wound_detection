@@ -1,0 +1,6 @@
+15_fine_tuning_gpt_models
+artifacts
+henv
+.env
+logs
+wound_dataset
